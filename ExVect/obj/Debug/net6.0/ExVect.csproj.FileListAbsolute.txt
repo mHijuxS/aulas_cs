@@ -1,0 +1,15 @@
+C:\temp\projetosEstudo\UdemyAula\ExVect\bin\Debug\net6.0\ExVect.exe
+C:\temp\projetosEstudo\UdemyAula\ExVect\bin\Debug\net6.0\ExVect.deps.json
+C:\temp\projetosEstudo\UdemyAula\ExVect\bin\Debug\net6.0\ExVect.runtimeconfig.json
+C:\temp\projetosEstudo\UdemyAula\ExVect\bin\Debug\net6.0\ExVect.dll
+C:\temp\projetosEstudo\UdemyAula\ExVect\bin\Debug\net6.0\ExVect.pdb
+C:\temp\projetosEstudo\UdemyAula\ExVect\obj\Debug\net6.0\ExVect.csproj.AssemblyReference.cache
+C:\temp\projetosEstudo\UdemyAula\ExVect\obj\Debug\net6.0\ExVect.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosEstudo\UdemyAula\ExVect\obj\Debug\net6.0\ExVect.AssemblyInfoInputs.cache
+C:\temp\projetosEstudo\UdemyAula\ExVect\obj\Debug\net6.0\ExVect.AssemblyInfo.cs
+C:\temp\projetosEstudo\UdemyAula\ExVect\obj\Debug\net6.0\ExVect.csproj.CoreCompileInputs.cache
+C:\temp\projetosEstudo\UdemyAula\ExVect\obj\Debug\net6.0\ExVect.dll
+C:\temp\projetosEstudo\UdemyAula\ExVect\obj\Debug\net6.0\refint\ExVect.dll
+C:\temp\projetosEstudo\UdemyAula\ExVect\obj\Debug\net6.0\ExVect.pdb
+C:\temp\projetosEstudo\UdemyAula\ExVect\obj\Debug\net6.0\ExVect.genruntimeconfig.cache
+C:\temp\projetosEstudo\UdemyAula\ExVect\obj\Debug\net6.0\ref\ExVect.dll

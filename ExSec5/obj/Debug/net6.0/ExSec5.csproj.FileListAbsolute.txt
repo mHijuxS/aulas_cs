@@ -1,0 +1,15 @@
+C:\temp\projetosEstudo\UdemyAula\ExSec5\bin\Debug\net6.0\ExSec5.exe
+C:\temp\projetosEstudo\UdemyAula\ExSec5\bin\Debug\net6.0\ExSec5.deps.json
+C:\temp\projetosEstudo\UdemyAula\ExSec5\bin\Debug\net6.0\ExSec5.runtimeconfig.json
+C:\temp\projetosEstudo\UdemyAula\ExSec5\bin\Debug\net6.0\ExSec5.dll
+C:\temp\projetosEstudo\UdemyAula\ExSec5\bin\Debug\net6.0\ExSec5.pdb
+C:\temp\projetosEstudo\UdemyAula\ExSec5\obj\Debug\net6.0\ExSec5.csproj.AssemblyReference.cache
+C:\temp\projetosEstudo\UdemyAula\ExSec5\obj\Debug\net6.0\ExSec5.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosEstudo\UdemyAula\ExSec5\obj\Debug\net6.0\ExSec5.AssemblyInfoInputs.cache
+C:\temp\projetosEstudo\UdemyAula\ExSec5\obj\Debug\net6.0\ExSec5.AssemblyInfo.cs
+C:\temp\projetosEstudo\UdemyAula\ExSec5\obj\Debug\net6.0\ExSec5.csproj.CoreCompileInputs.cache
+C:\temp\projetosEstudo\UdemyAula\ExSec5\obj\Debug\net6.0\ExSec5.dll
+C:\temp\projetosEstudo\UdemyAula\ExSec5\obj\Debug\net6.0\refint\ExSec5.dll
+C:\temp\projetosEstudo\UdemyAula\ExSec5\obj\Debug\net6.0\ExSec5.pdb
+C:\temp\projetosEstudo\UdemyAula\ExSec5\obj\Debug\net6.0\ExSec5.genruntimeconfig.cache
+C:\temp\projetosEstudo\UdemyAula\ExSec5\obj\Debug\net6.0\ref\ExSec5.dll

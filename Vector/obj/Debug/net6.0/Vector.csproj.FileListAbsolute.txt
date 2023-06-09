@@ -1,0 +1,15 @@
+C:\temp\projetosEstudo\UdemyAula\Vector\bin\Debug\net6.0\Vector.exe
+C:\temp\projetosEstudo\UdemyAula\Vector\bin\Debug\net6.0\Vector.deps.json
+C:\temp\projetosEstudo\UdemyAula\Vector\bin\Debug\net6.0\Vector.runtimeconfig.json
+C:\temp\projetosEstudo\UdemyAula\Vector\bin\Debug\net6.0\Vector.dll
+C:\temp\projetosEstudo\UdemyAula\Vector\bin\Debug\net6.0\Vector.pdb
+C:\temp\projetosEstudo\UdemyAula\Vector\obj\Debug\net6.0\Vector.csproj.AssemblyReference.cache
+C:\temp\projetosEstudo\UdemyAula\Vector\obj\Debug\net6.0\Vector.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosEstudo\UdemyAula\Vector\obj\Debug\net6.0\Vector.AssemblyInfoInputs.cache
+C:\temp\projetosEstudo\UdemyAula\Vector\obj\Debug\net6.0\Vector.AssemblyInfo.cs
+C:\temp\projetosEstudo\UdemyAula\Vector\obj\Debug\net6.0\Vector.csproj.CoreCompileInputs.cache
+C:\temp\projetosEstudo\UdemyAula\Vector\obj\Debug\net6.0\Vector.dll
+C:\temp\projetosEstudo\UdemyAula\Vector\obj\Debug\net6.0\refint\Vector.dll
+C:\temp\projetosEstudo\UdemyAula\Vector\obj\Debug\net6.0\Vector.pdb
+C:\temp\projetosEstudo\UdemyAula\Vector\obj\Debug\net6.0\Vector.genruntimeconfig.cache
+C:\temp\projetosEstudo\UdemyAula\Vector\obj\Debug\net6.0\ref\Vector.dll

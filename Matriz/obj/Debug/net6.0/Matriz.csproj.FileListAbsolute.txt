@@ -1,0 +1,15 @@
+C:\temp\projetosEstudo\UdemyAula\Matriz\bin\Debug\net6.0\Matriz.exe
+C:\temp\projetosEstudo\UdemyAula\Matriz\bin\Debug\net6.0\Matriz.deps.json
+C:\temp\projetosEstudo\UdemyAula\Matriz\bin\Debug\net6.0\Matriz.runtimeconfig.json
+C:\temp\projetosEstudo\UdemyAula\Matriz\bin\Debug\net6.0\Matriz.dll
+C:\temp\projetosEstudo\UdemyAula\Matriz\bin\Debug\net6.0\Matriz.pdb
+C:\temp\projetosEstudo\UdemyAula\Matriz\obj\Debug\net6.0\Matriz.csproj.AssemblyReference.cache
+C:\temp\projetosEstudo\UdemyAula\Matriz\obj\Debug\net6.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosEstudo\UdemyAula\Matriz\obj\Debug\net6.0\Matriz.AssemblyInfoInputs.cache
+C:\temp\projetosEstudo\UdemyAula\Matriz\obj\Debug\net6.0\Matriz.AssemblyInfo.cs
+C:\temp\projetosEstudo\UdemyAula\Matriz\obj\Debug\net6.0\Matriz.csproj.CoreCompileInputs.cache
+C:\temp\projetosEstudo\UdemyAula\Matriz\obj\Debug\net6.0\Matriz.dll
+C:\temp\projetosEstudo\UdemyAula\Matriz\obj\Debug\net6.0\refint\Matriz.dll
+C:\temp\projetosEstudo\UdemyAula\Matriz\obj\Debug\net6.0\Matriz.pdb
+C:\temp\projetosEstudo\UdemyAula\Matriz\obj\Debug\net6.0\Matriz.genruntimeconfig.cache
+C:\temp\projetosEstudo\UdemyAula\Matriz\obj\Debug\net6.0\ref\Matriz.dll

@@ -1,0 +1,15 @@
+C:\temp\projetosEstudo\UdemyAula\Sec6\bin\Debug\net6.0\Sec6.exe
+C:\temp\projetosEstudo\UdemyAula\Sec6\bin\Debug\net6.0\Sec6.deps.json
+C:\temp\projetosEstudo\UdemyAula\Sec6\bin\Debug\net6.0\Sec6.runtimeconfig.json
+C:\temp\projetosEstudo\UdemyAula\Sec6\bin\Debug\net6.0\Sec6.dll
+C:\temp\projetosEstudo\UdemyAula\Sec6\bin\Debug\net6.0\Sec6.pdb
+C:\temp\projetosEstudo\UdemyAula\Sec6\obj\Debug\net6.0\Sec6.csproj.AssemblyReference.cache
+C:\temp\projetosEstudo\UdemyAula\Sec6\obj\Debug\net6.0\Sec6.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosEstudo\UdemyAula\Sec6\obj\Debug\net6.0\Sec6.AssemblyInfoInputs.cache
+C:\temp\projetosEstudo\UdemyAula\Sec6\obj\Debug\net6.0\Sec6.AssemblyInfo.cs
+C:\temp\projetosEstudo\UdemyAula\Sec6\obj\Debug\net6.0\Sec6.csproj.CoreCompileInputs.cache
+C:\temp\projetosEstudo\UdemyAula\Sec6\obj\Debug\net6.0\Sec6.dll
+C:\temp\projetosEstudo\UdemyAula\Sec6\obj\Debug\net6.0\refint\Sec6.dll
+C:\temp\projetosEstudo\UdemyAula\Sec6\obj\Debug\net6.0\Sec6.pdb
+C:\temp\projetosEstudo\UdemyAula\Sec6\obj\Debug\net6.0\Sec6.genruntimeconfig.cache
+C:\temp\projetosEstudo\UdemyAula\Sec6\obj\Debug\net6.0\ref\Sec6.dll

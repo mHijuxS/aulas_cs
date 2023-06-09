@@ -1,0 +1,15 @@
+C:\temp\projetosEstudo\UdemyAula\UdemyAula\bin\Debug\net6.0\UdemyAula.exe
+C:\temp\projetosEstudo\UdemyAula\UdemyAula\bin\Debug\net6.0\UdemyAula.deps.json
+C:\temp\projetosEstudo\UdemyAula\UdemyAula\bin\Debug\net6.0\UdemyAula.runtimeconfig.json
+C:\temp\projetosEstudo\UdemyAula\UdemyAula\bin\Debug\net6.0\UdemyAula.dll
+C:\temp\projetosEstudo\UdemyAula\UdemyAula\bin\Debug\net6.0\UdemyAula.pdb
+C:\temp\projetosEstudo\UdemyAula\UdemyAula\obj\Debug\net6.0\UdemyAula.csproj.AssemblyReference.cache
+C:\temp\projetosEstudo\UdemyAula\UdemyAula\obj\Debug\net6.0\UdemyAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosEstudo\UdemyAula\UdemyAula\obj\Debug\net6.0\UdemyAula.AssemblyInfoInputs.cache
+C:\temp\projetosEstudo\UdemyAula\UdemyAula\obj\Debug\net6.0\UdemyAula.AssemblyInfo.cs
+C:\temp\projetosEstudo\UdemyAula\UdemyAula\obj\Debug\net6.0\UdemyAula.csproj.CoreCompileInputs.cache
+C:\temp\projetosEstudo\UdemyAula\UdemyAula\obj\Debug\net6.0\UdemyAula.dll
+C:\temp\projetosEstudo\UdemyAula\UdemyAula\obj\Debug\net6.0\refint\UdemyAula.dll
+C:\temp\projetosEstudo\UdemyAula\UdemyAula\obj\Debug\net6.0\UdemyAula.pdb
+C:\temp\projetosEstudo\UdemyAula\UdemyAula\obj\Debug\net6.0\UdemyAula.genruntimeconfig.cache
+C:\temp\projetosEstudo\UdemyAula\UdemyAula\obj\Debug\net6.0\ref\UdemyAula.dll

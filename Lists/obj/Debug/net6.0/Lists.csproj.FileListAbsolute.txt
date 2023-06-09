@@ -1,0 +1,15 @@
+C:\temp\projetosEstudo\UdemyAula\Lists\obj\Debug\net6.0\Lists.csproj.AssemblyReference.cache
+C:\temp\projetosEstudo\UdemyAula\Lists\obj\Debug\net6.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosEstudo\UdemyAula\Lists\obj\Debug\net6.0\Lists.AssemblyInfoInputs.cache
+C:\temp\projetosEstudo\UdemyAula\Lists\obj\Debug\net6.0\Lists.AssemblyInfo.cs
+C:\temp\projetosEstudo\UdemyAula\Lists\obj\Debug\net6.0\Lists.csproj.CoreCompileInputs.cache
+C:\temp\projetosEstudo\UdemyAula\Lists\bin\Debug\net6.0\Lists.exe
+C:\temp\projetosEstudo\UdemyAula\Lists\bin\Debug\net6.0\Lists.deps.json
+C:\temp\projetosEstudo\UdemyAula\Lists\bin\Debug\net6.0\Lists.runtimeconfig.json
+C:\temp\projetosEstudo\UdemyAula\Lists\bin\Debug\net6.0\Lists.dll
+C:\temp\projetosEstudo\UdemyAula\Lists\bin\Debug\net6.0\Lists.pdb
+C:\temp\projetosEstudo\UdemyAula\Lists\obj\Debug\net6.0\Lists.dll
+C:\temp\projetosEstudo\UdemyAula\Lists\obj\Debug\net6.0\refint\Lists.dll
+C:\temp\projetosEstudo\UdemyAula\Lists\obj\Debug\net6.0\Lists.pdb
+C:\temp\projetosEstudo\UdemyAula\Lists\obj\Debug\net6.0\Lists.genruntimeconfig.cache
+C:\temp\projetosEstudo\UdemyAula\Lists\obj\Debug\net6.0\ref\Lists.dll

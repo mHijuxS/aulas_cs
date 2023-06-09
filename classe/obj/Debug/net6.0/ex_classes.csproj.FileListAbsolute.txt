@@ -1,0 +1,15 @@
+C:\temp\projetosEstudo\UdemyAula\classe\bin\Debug\net6.0\ex_classes.exe
+C:\temp\projetosEstudo\UdemyAula\classe\bin\Debug\net6.0\ex_classes.deps.json
+C:\temp\projetosEstudo\UdemyAula\classe\bin\Debug\net6.0\ex_classes.runtimeconfig.json
+C:\temp\projetosEstudo\UdemyAula\classe\bin\Debug\net6.0\ex_classes.dll
+C:\temp\projetosEstudo\UdemyAula\classe\bin\Debug\net6.0\ex_classes.pdb
+C:\temp\projetosEstudo\UdemyAula\classe\obj\Debug\net6.0\ex_classes.csproj.AssemblyReference.cache
+C:\temp\projetosEstudo\UdemyAula\classe\obj\Debug\net6.0\ex_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosEstudo\UdemyAula\classe\obj\Debug\net6.0\ex_classes.AssemblyInfoInputs.cache
+C:\temp\projetosEstudo\UdemyAula\classe\obj\Debug\net6.0\ex_classes.AssemblyInfo.cs
+C:\temp\projetosEstudo\UdemyAula\classe\obj\Debug\net6.0\ex_classes.csproj.CoreCompileInputs.cache
+C:\temp\projetosEstudo\UdemyAula\classe\obj\Debug\net6.0\ex_classes.dll
+C:\temp\projetosEstudo\UdemyAula\classe\obj\Debug\net6.0\refint\ex_classes.dll
+C:\temp\projetosEstudo\UdemyAula\classe\obj\Debug\net6.0\ex_classes.pdb
+C:\temp\projetosEstudo\UdemyAula\classe\obj\Debug\net6.0\ex_classes.genruntimeconfig.cache
+C:\temp\projetosEstudo\UdemyAula\classe\obj\Debug\net6.0\ref\ex_classes.dll

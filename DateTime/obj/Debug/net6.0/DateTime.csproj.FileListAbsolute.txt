@@ -1,0 +1,15 @@
+C:\temp\projetosEstudo\UdemyAula\DateTime\bin\Debug\net6.0\DateTime.exe
+C:\temp\projetosEstudo\UdemyAula\DateTime\bin\Debug\net6.0\DateTime.deps.json
+C:\temp\projetosEstudo\UdemyAula\DateTime\bin\Debug\net6.0\DateTime.runtimeconfig.json
+C:\temp\projetosEstudo\UdemyAula\DateTime\bin\Debug\net6.0\DateTime.dll
+C:\temp\projetosEstudo\UdemyAula\DateTime\bin\Debug\net6.0\DateTime.pdb
+C:\temp\projetosEstudo\UdemyAula\DateTime\obj\Debug\net6.0\DateTime.csproj.AssemblyReference.cache
+C:\temp\projetosEstudo\UdemyAula\DateTime\obj\Debug\net6.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosEstudo\UdemyAula\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfoInputs.cache
+C:\temp\projetosEstudo\UdemyAula\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfo.cs
+C:\temp\projetosEstudo\UdemyAula\DateTime\obj\Debug\net6.0\DateTime.csproj.CoreCompileInputs.cache
+C:\temp\projetosEstudo\UdemyAula\DateTime\obj\Debug\net6.0\DateTime.dll
+C:\temp\projetosEstudo\UdemyAula\DateTime\obj\Debug\net6.0\refint\DateTime.dll
+C:\temp\projetosEstudo\UdemyAula\DateTime\obj\Debug\net6.0\DateTime.pdb
+C:\temp\projetosEstudo\UdemyAula\DateTime\obj\Debug\net6.0\DateTime.genruntimeconfig.cache
+C:\temp\projetosEstudo\UdemyAula\DateTime\obj\Debug\net6.0\ref\DateTime.dll

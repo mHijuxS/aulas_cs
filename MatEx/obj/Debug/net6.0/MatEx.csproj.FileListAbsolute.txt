@@ -1,0 +1,15 @@
+C:\temp\projetosEstudo\UdemyAula\MatEx\bin\Debug\net6.0\MatEx.exe
+C:\temp\projetosEstudo\UdemyAula\MatEx\bin\Debug\net6.0\MatEx.deps.json
+C:\temp\projetosEstudo\UdemyAula\MatEx\bin\Debug\net6.0\MatEx.runtimeconfig.json
+C:\temp\projetosEstudo\UdemyAula\MatEx\bin\Debug\net6.0\MatEx.dll
+C:\temp\projetosEstudo\UdemyAula\MatEx\bin\Debug\net6.0\MatEx.pdb
+C:\temp\projetosEstudo\UdemyAula\MatEx\obj\Debug\net6.0\MatEx.csproj.AssemblyReference.cache
+C:\temp\projetosEstudo\UdemyAula\MatEx\obj\Debug\net6.0\MatEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosEstudo\UdemyAula\MatEx\obj\Debug\net6.0\MatEx.AssemblyInfoInputs.cache
+C:\temp\projetosEstudo\UdemyAula\MatEx\obj\Debug\net6.0\MatEx.AssemblyInfo.cs
+C:\temp\projetosEstudo\UdemyAula\MatEx\obj\Debug\net6.0\MatEx.csproj.CoreCompileInputs.cache
+C:\temp\projetosEstudo\UdemyAula\MatEx\obj\Debug\net6.0\MatEx.dll
+C:\temp\projetosEstudo\UdemyAula\MatEx\obj\Debug\net6.0\refint\MatEx.dll
+C:\temp\projetosEstudo\UdemyAula\MatEx\obj\Debug\net6.0\MatEx.pdb
+C:\temp\projetosEstudo\UdemyAula\MatEx\obj\Debug\net6.0\MatEx.genruntimeconfig.cache
+C:\temp\projetosEstudo\UdemyAula\MatEx\obj\Debug\net6.0\ref\MatEx.dll

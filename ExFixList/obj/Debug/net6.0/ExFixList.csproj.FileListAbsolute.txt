@@ -1,0 +1,15 @@
+C:\temp\projetosEstudo\UdemyAula\ExFixList\bin\Debug\net6.0\ExFixList.exe
+C:\temp\projetosEstudo\UdemyAula\ExFixList\bin\Debug\net6.0\ExFixList.deps.json
+C:\temp\projetosEstudo\UdemyAula\ExFixList\bin\Debug\net6.0\ExFixList.runtimeconfig.json
+C:\temp\projetosEstudo\UdemyAula\ExFixList\bin\Debug\net6.0\ExFixList.dll
+C:\temp\projetosEstudo\UdemyAula\ExFixList\bin\Debug\net6.0\ExFixList.pdb
+C:\temp\projetosEstudo\UdemyAula\ExFixList\obj\Debug\net6.0\ExFixList.csproj.AssemblyReference.cache
+C:\temp\projetosEstudo\UdemyAula\ExFixList\obj\Debug\net6.0\ExFixList.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosEstudo\UdemyAula\ExFixList\obj\Debug\net6.0\ExFixList.AssemblyInfoInputs.cache
+C:\temp\projetosEstudo\UdemyAula\ExFixList\obj\Debug\net6.0\ExFixList.AssemblyInfo.cs
+C:\temp\projetosEstudo\UdemyAula\ExFixList\obj\Debug\net6.0\ExFixList.csproj.CoreCompileInputs.cache
+C:\temp\projetosEstudo\UdemyAula\ExFixList\obj\Debug\net6.0\ExFixList.dll
+C:\temp\projetosEstudo\UdemyAula\ExFixList\obj\Debug\net6.0\refint\ExFixList.dll
+C:\temp\projetosEstudo\UdemyAula\ExFixList\obj\Debug\net6.0\ExFixList.pdb
+C:\temp\projetosEstudo\UdemyAula\ExFixList\obj\Debug\net6.0\ExFixList.genruntimeconfig.cache
+C:\temp\projetosEstudo\UdemyAula\ExFixList\obj\Debug\net6.0\ref\ExFixList.dll
