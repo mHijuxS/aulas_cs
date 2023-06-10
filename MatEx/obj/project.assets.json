@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mferreira\\.nuget\\packages\\": {}
+    "C:\\Users\\Mathe\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\projetosEstudo\\UdemyAula\\MatEx\\MatEx.csproj",
+      "projectUniqueName": "C:\\temp\\aulas_c-\\MatEx\\MatEx.csproj",
       "projectName": "MatEx",
-      "projectPath": "C:\\temp\\projetosEstudo\\UdemyAula\\MatEx\\MatEx.csproj",
-      "packagesPath": "C:\\Users\\mferreira\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\projetosEstudo\\UdemyAula\\MatEx\\obj\\",
+      "projectPath": "C:\\temp\\aulas_c-\\MatEx\\MatEx.csproj",
+      "packagesPath": "C:\\Users\\Mathe\\.nuget\\packages\\",
+      "outputPath": "C:\\temp\\aulas_c-\\MatEx\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\mferreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
