@@ -1,0 +1,15 @@
+C:\temp\projetosEstudo\UdemyAula\ExRes2Enum\bin\Debug\net6.0\ExRes2Enum.exe
+C:\temp\projetosEstudo\UdemyAula\ExRes2Enum\bin\Debug\net6.0\ExRes2Enum.deps.json
+C:\temp\projetosEstudo\UdemyAula\ExRes2Enum\bin\Debug\net6.0\ExRes2Enum.runtimeconfig.json
+C:\temp\projetosEstudo\UdemyAula\ExRes2Enum\bin\Debug\net6.0\ExRes2Enum.dll
+C:\temp\projetosEstudo\UdemyAula\ExRes2Enum\bin\Debug\net6.0\ExRes2Enum.pdb
+C:\temp\projetosEstudo\UdemyAula\ExRes2Enum\obj\Debug\net6.0\ExRes2Enum.csproj.AssemblyReference.cache
+C:\temp\projetosEstudo\UdemyAula\ExRes2Enum\obj\Debug\net6.0\ExRes2Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosEstudo\UdemyAula\ExRes2Enum\obj\Debug\net6.0\ExRes2Enum.AssemblyInfoInputs.cache
+C:\temp\projetosEstudo\UdemyAula\ExRes2Enum\obj\Debug\net6.0\ExRes2Enum.AssemblyInfo.cs
+C:\temp\projetosEstudo\UdemyAula\ExRes2Enum\obj\Debug\net6.0\ExRes2Enum.csproj.CoreCompileInputs.cache
+C:\temp\projetosEstudo\UdemyAula\ExRes2Enum\obj\Debug\net6.0\ExRes2Enum.dll
+C:\temp\projetosEstudo\UdemyAula\ExRes2Enum\obj\Debug\net6.0\refint\ExRes2Enum.dll
+C:\temp\projetosEstudo\UdemyAula\ExRes2Enum\obj\Debug\net6.0\ExRes2Enum.pdb
+C:\temp\projetosEstudo\UdemyAula\ExRes2Enum\obj\Debug\net6.0\ExRes2Enum.genruntimeconfig.cache
+C:\temp\projetosEstudo\UdemyAula\ExRes2Enum\obj\Debug\net6.0\ref\ExRes2Enum.dll

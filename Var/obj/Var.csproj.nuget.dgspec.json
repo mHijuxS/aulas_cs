@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\temp\\aulas_c-\\Var\\Var.csproj": {}
+    "C:\\temp\\projetosEstudo\\UdemyAula\\Var\\Var.csproj": {}
   },
   "projects": {
-    "C:\\temp\\aulas_c-\\Var\\Var.csproj": {
+    "C:\\temp\\projetosEstudo\\UdemyAula\\Var\\Var.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\temp\\aulas_c-\\Var\\Var.csproj",
+        "projectUniqueName": "C:\\temp\\projetosEstudo\\UdemyAula\\Var\\Var.csproj",
         "projectName": "Var",
-        "projectPath": "C:\\temp\\aulas_c-\\Var\\Var.csproj",
-        "packagesPath": "C:\\Users\\Mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\temp\\aulas_c-\\Var\\obj\\",
+        "projectPath": "C:\\temp\\projetosEstudo\\UdemyAula\\Var\\Var.csproj",
+        "packagesPath": "C:\\Users\\mferreira\\.nuget\\packages\\",
+        "outputPath": "C:\\temp\\projetosEstudo\\UdemyAula\\Var\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\mferreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

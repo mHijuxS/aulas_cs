@@ -1,0 +1,22 @@
+UNICODE TABLE
+https://www.tamasoft.co.jp/en/general-info/unicode.html
+
+CultureInfo.InvariantCulture => separador de decimal '.' invariante da lingua do computador
+
+
+ENUMERAÇÕES
+Def: tipo essencial que serve para especificar de forma literal um conjunto de constantes relacionadas
+Keyword: enum (tipo valor)
+Vantagem: código mais legível e auxiliado pelo compilador
+
+Compilador atribui automaticamente valores 0,1,2,3 as variaveis em ordem de declaração
+
+Em um sistema orientado a objeto, de modo geral "tudo" é objeto
+
+Há várias categorias de classes: Views, Controllers, Entities, Services, Repositories, ...
+
+Composição
+Permite que um objeto contenha outro 
+Vantagens: Organização, coesão, flexibilidade, reuso 
+Relação "tem-um" "tem-vários"
+
