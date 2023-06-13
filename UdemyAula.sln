@@ -39,17 +39,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExRes2Enum", "ExRes2Enum\Ex
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExPropEnum", "ExPropEnum\ExPropEnum.csproj", "{FA85BD14-C0E3-442A-922C-CD40C5361385}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca", "Heranca\Heranca.csproj", "{D1E13441-6CAC-4CB6-AF87-D305E25E088E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Heranca", "Heranca\Heranca.csproj", "{D1E13441-6CAC-4CB6-AF87-D305E25E088E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExResHer", "ExResHer\ExResHer.csproj", "{D753F61C-AF2B-45CE-BE24-622F7422FE00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExResHer", "ExResHer\ExResHer.csproj", "{D753F61C-AF2B-45CE-BE24-622F7422FE00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExPropHer", "ExPropHer\ExPropHer.csproj", "{91D5329D-BEC6-49A7-B84F-72BB691AE7D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExPropHer", "ExPropHer\ExPropHer.csproj", "{91D5329D-BEC6-49A7-B84F-72BB691AE7D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{A2A8998E-4192-4368-91B2-05C06F776445}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{A2A8998E-4192-4368-91B2-05C06F776445}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExPropAbst", "ExPropAbst\ExPropAbst.csproj", "{7EA3FDDB-3162-4F43-91B6-9BFAE15002C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExPropAbst", "ExPropAbst\ExPropAbst.csproj", "{7EA3FDDB-3162-4F43-91B6-9BFAE15002C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{6A38C6B5-8E41-447A-94F4-5C6E3CC26673}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{6A38C6B5-8E41-447A-94F4-5C6E3CC26673}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExPropException", "ExPropException\ExPropException.csproj", "{B180FB59-112A-401F-BBBA-A833F7D9AFD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{6A38C6B5-8E41-447A-94F4-5C6E3CC26673}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A38C6B5-8E41-447A-94F4-5C6E3CC26673}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A38C6B5-8E41-447A-94F4-5C6E3CC26673}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B180FB59-112A-401F-BBBA-A833F7D9AFD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B180FB59-112A-401F-BBBA-A833F7D9AFD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B180FB59-112A-401F-BBBA-A833F7D9AFD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B180FB59-112A-401F-BBBA-A833F7D9AFD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
