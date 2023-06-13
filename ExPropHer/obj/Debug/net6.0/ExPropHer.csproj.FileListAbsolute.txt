@@ -1,0 +1,15 @@
+C:\temp\projetosEstudo\UdemyAula\ExPropHer\bin\Debug\net6.0\ExPropHer.exe
+C:\temp\projetosEstudo\UdemyAula\ExPropHer\bin\Debug\net6.0\ExPropHer.deps.json
+C:\temp\projetosEstudo\UdemyAula\ExPropHer\bin\Debug\net6.0\ExPropHer.runtimeconfig.json
+C:\temp\projetosEstudo\UdemyAula\ExPropHer\bin\Debug\net6.0\ExPropHer.dll
+C:\temp\projetosEstudo\UdemyAula\ExPropHer\bin\Debug\net6.0\ExPropHer.pdb
+C:\temp\projetosEstudo\UdemyAula\ExPropHer\obj\Debug\net6.0\ExPropHer.csproj.AssemblyReference.cache
+C:\temp\projetosEstudo\UdemyAula\ExPropHer\obj\Debug\net6.0\ExPropHer.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetosEstudo\UdemyAula\ExPropHer\obj\Debug\net6.0\ExPropHer.AssemblyInfoInputs.cache
+C:\temp\projetosEstudo\UdemyAula\ExPropHer\obj\Debug\net6.0\ExPropHer.AssemblyInfo.cs
+C:\temp\projetosEstudo\UdemyAula\ExPropHer\obj\Debug\net6.0\ExPropHer.csproj.CoreCompileInputs.cache
+C:\temp\projetosEstudo\UdemyAula\ExPropHer\obj\Debug\net6.0\ExPropHer.dll
+C:\temp\projetosEstudo\UdemyAula\ExPropHer\obj\Debug\net6.0\refint\ExPropHer.dll
+C:\temp\projetosEstudo\UdemyAula\ExPropHer\obj\Debug\net6.0\ExPropHer.pdb
+C:\temp\projetosEstudo\UdemyAula\ExPropHer\obj\Debug\net6.0\ExPropHer.genruntimeconfig.cache
+C:\temp\projetosEstudo\UdemyAula\ExPropHer\obj\Debug\net6.0\ref\ExPropHer.dll
