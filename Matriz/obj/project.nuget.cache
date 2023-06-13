@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sS7ItceIWMqedmsBmXOGE7zqTfyU3xe3W+202jC68Ya+n9sUQFBy1LabZuBjYHSwwxXmuAK7nA4kkJGFD2F9cg==",
+  "dgSpecHash": "60+uz+uAORl4ua1xteZzl6rHMrev3iKXXk6rtm7JW6vnN2sR9a9ZNerPXeolYbO21UaTTWvKPyPOjgTM4sCUDQ==",
   "success": true,
-  "projectFilePath": "C:\\temp\\projetosEstudo\\UdemyAula\\Matriz\\Matriz.csproj",
+  "projectFilePath": "C:\\temp\\aulas_c-\\Matriz\\Matriz.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

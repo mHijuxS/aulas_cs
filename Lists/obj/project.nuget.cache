@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dDtrqaDcYJnaUQNA/8PIR9IO5Pfgz+OzSYedlK2eU0CsKDwZrWXM1Y11Tmo84GqZR5x/kSkdermY4kdQ9dJQ5w==",
+  "dgSpecHash": "fwSrNOWGHRwsyZGaxWf8F2M0KEdRA7J3RiXX+xudtu7SmIZnt9MxCqr0o8NTEMybzjMJgKCOMOvLWAHiTH408g==",
   "success": true,
-  "projectFilePath": "C:\\temp\\projetosEstudo\\UdemyAula\\Lists\\Lists.csproj",
+  "projectFilePath": "C:\\temp\\aulas_c-\\Lists\\Lists.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
