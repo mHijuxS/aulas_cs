@@ -51,9 +51,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExPropAbst", "ExPropAbst\Ex
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{6A38C6B5-8E41-447A-94F4-5C6E3CC26673}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExPropException", "ExPropException\ExPropException.csproj", "{B180FB59-112A-401F-BBBA-A833F7D9AFD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExPropException", "ExPropException\ExPropException.csproj", "{B180FB59-112A-401F-BBBA-A833F7D9AFD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaJogoXadrez", "SistemaJogoXadrez\SistemaJogoXadrez.csproj", "{A6F3559D-E976-43E8-9773-69C9BFD696D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Interface\Interface.csproj", "{C301D27D-CFF0-4B70-965A-0376793F9BFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExFixInter", "ExFixInter\ExFixInter.csproj", "{B3CF8568-D84B-4794-A58D-F1DA15EE5A31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -161,10 +163,14 @@ Global
 		{B180FB59-112A-401F-BBBA-A833F7D9AFD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B180FB59-112A-401F-BBBA-A833F7D9AFD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B180FB59-112A-401F-BBBA-A833F7D9AFD4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A6F3559D-E976-43E8-9773-69C9BFD696D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A6F3559D-E976-43E8-9773-69C9BFD696D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A6F3559D-E976-43E8-9773-69C9BFD696D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A6F3559D-E976-43E8-9773-69C9BFD696D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C301D27D-CFF0-4B70-965A-0376793F9BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C301D27D-CFF0-4B70-965A-0376793F9BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C301D27D-CFF0-4B70-965A-0376793F9BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C301D27D-CFF0-4B70-965A-0376793F9BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3CF8568-D84B-4794-A58D-F1DA15EE5A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3CF8568-D84B-4794-A58D-F1DA15EE5A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3CF8568-D84B-4794-A58D-F1DA15EE5A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3CF8568-D84B-4794-A58D-F1DA15EE5A31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
